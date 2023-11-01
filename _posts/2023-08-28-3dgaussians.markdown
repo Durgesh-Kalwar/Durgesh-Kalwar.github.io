@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Flexible Techniques for Differentiable Rendering with 3D Gaussians"
-date:   2023-08-28 22:21:59 +00:00
+title:  "Follow your Nose: Using General Value Functions for Directed Exploration in Reinforcement Learning"
+date:   2023-05-29 22:21:59 +00:00
 image: /images/3dgaussian.jpg
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
-venue: "arXiv"
-arxiv: https://arxiv.org/abs/2308.14737
-code: https://github.com/leonidk/fmb-plus
-website: https://leonidk.github.io/fmb-plus
+author: "Durgesh Kalwar"
+authors: "<strong>Durgesh Kalwar</strong>, Omkar Shelke, Somjit Nath, Hardik Meisheri, Harshad Khadilkar"
+venue: "International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023"
+arxiv: https://arxiv.org/abs/2203.00874
+# code: https://github.com/leonidk/fmb-plus
+# website: https://leonidk.github.io/fmb-plus
 ---
-We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more. 
+<!-- We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more.  -->
