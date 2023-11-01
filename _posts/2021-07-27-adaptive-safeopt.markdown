@@ -10,5 +10,5 @@ venue: "National Conference on Communications (NCC)"
 arxiv: https://ieeexplore.ieee.org/abstract/document/9530041
 # code: https://github.com/leonidk/pairwise
 # website: https://leonidk.github.io/pairwise
-# ---
-# We show how to perform efficient black-box optimization of algorithm configuration from user preferences. Results include Intel RealSense stereo cameras and a robot social navigation policy.
+---
+<!-- We show how to perform efficient black-box optimization of algorithm configuration from user preferences. Results include Intel RealSense stereo cameras and a robot social navigation policy. -->
