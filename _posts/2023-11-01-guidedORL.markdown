@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Guiding Offline Reinforcement Learning using Safety Expert"
-date:   2023-11-02 22:21:59 +00:00
+date:   2023-11-01 22:21:59 +00:00
 image: /images/cliffwalk.png
 categories: research
 author: "Richa Verma"
