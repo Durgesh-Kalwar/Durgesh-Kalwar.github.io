@@ -2,7 +2,7 @@
 layout: post
 title:  "Using General Value Functions to Learn Domain-Backed
 Inventory Management Policies"
-date:   2023-11-05 22:21:59 +00:00
+date:   2023-11-01 22:21:59 +00:00
 image: /images/rl-setup-gvf.pdf
 categories: research
 author: "Durgesh Kalwar"
