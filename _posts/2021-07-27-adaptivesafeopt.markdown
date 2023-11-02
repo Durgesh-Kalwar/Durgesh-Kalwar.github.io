@@ -2,7 +2,7 @@
 layout: post
 title:  "Safe Sequential Optimization in Switching Environments"
 date:   2021-07-27 22:21:59 +00:00
-image: /images/pairwise.png
+image: /images/varying_env.png
 categories: research
 author: "Durgesh Kalwar"
 authors: "<strong>Durgesh Kalwar</strong>, Vineeth Bala Sukumaran"
