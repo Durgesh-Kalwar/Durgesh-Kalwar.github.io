@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Guiding Offline Reinforcement Learning using Safety Expert"
-date:   2023-11-01 22:21:59 +00:00
+# date:   2023-11-01 22:21:59 +00:00
 image: /images/cliffwalk.png
 categories: research
 author: "Richa Verma"
 authors: "Richa Verma <strong>Durgesh Kalwar</strong>, Harshad Khadilkar, Balaraman Ravindran"
-venue: "CODS-COMAD"
+venue: "Accepted in CODS-COMAD conference 2024"
 # arxiv: https://arxiv.org/abs/2207.10606
 # code: https://github.com/leonidk/fuzzy-metaballs
 # website: https://leonidk.github.io/fuzzy-metaballs/

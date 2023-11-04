@@ -121,15 +121,13 @@
           {% endfor %}
           {% endfor %}
         </table>
-        <!-- <br>
+        <br>
         <br>
         <br>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Intel Projects</h2>
-              <p>Besides my work on the RealSense depth sensors and the publications above, a sampling of my publicly disclosed work
-              </p>
+              <h2>Preprints, Reports</h2>
             </td>
           </tr>
         </table>
@@ -137,7 +135,7 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat == 'Intel' %}
+          {% if cat == 'preprint' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
@@ -188,7 +186,7 @@
           {% endfor %}
           {% endfor %}
         </table>
-        <br>
+        <!-- <br>
         <br>
         <br>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
