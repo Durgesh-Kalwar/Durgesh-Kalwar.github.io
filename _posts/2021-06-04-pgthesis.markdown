@@ -6,7 +6,7 @@ image: /images/varying_env.png
 categories: research
 author: "Durgesh Kalwar"
 authors: "<strong>Durgesh Kalwar</strong>"
-venue: "Master's Thesis"
+venue: "Master's Thesis, 2021"
 arxiv: /pdfs/Thesis_report.pdf
 # code: https://github.com/leonidk/pairwise
 # website: https://leonidk.github.io/pairwise

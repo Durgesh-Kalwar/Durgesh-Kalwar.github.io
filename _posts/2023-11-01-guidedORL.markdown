@@ -6,7 +6,7 @@ image: /images/cliffwalk.png
 categories: research
 author: "Richa Verma"
 authors: "Richa Verma <strong>Durgesh Kalwar</strong>, Harshad Khadilkar, Balaraman Ravindran"
-venue: "Accepted in CODS-COMAD conference 2024"
+venue: "Accepted in CODS-COMAD conference, 2024"
 # arxiv: https://arxiv.org/abs/2207.10606
 # code: https://github.com/leonidk/fuzzy-metaballs
 # website: https://leonidk.github.io/fuzzy-metaballs/

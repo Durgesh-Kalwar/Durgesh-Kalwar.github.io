@@ -7,7 +7,7 @@ image: /images/supplygvf.png
 categories: research
 author: "Durgesh Kalwar"
 authors: "<strong>Durgesh Kalwar</strong>, Omkar Shelke, Harshad Khadilkar"
-venue: "arxiv"
+venue: "arxiv, 2023"
 arxiv: /pdfs/supplygvf.pdf
 # code: https://github.com/leonidk/modecfg
 # website: https://leonidk.github.io/modecfg
