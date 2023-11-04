@@ -4,7 +4,7 @@ title:  "Using General Value Functions to Learn Domain-Backed
 Inventory Management Policies"
 date:   2023-11-01 22:21:59 +00:00
 image: /images/supplygvf.png
-categories: preprint
+categories: research
 author: "Durgesh Kalwar"
 authors: "<strong>Durgesh Kalwar</strong>, Omkar Shelke, Harshad Khadilkar"
 venue: "arxiv"
