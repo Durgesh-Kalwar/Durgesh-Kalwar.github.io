@@ -1,15 +1,14 @@
 ---
 layout: post
 title:  "Safe Exploration in Reinforcement Learning"
-date:   2021-06-04 22:21:59 +00:00
-image: /images/logo.pdf
+date:   2021-07-27 22:21:59 +00:00
+image: /images/varying_env.png
 categories: preprint
 author: "Durgesh Kalwar"
 authors: "<strong>Durgesh Kalwar</strong>"
 venue: "Master's Thesis"
 arxiv: /pdfs/Thesis_report.pdf
-# slides: /pdfs/jcdl2019.pdf
-# code: https://github.com/leonidk/venue_scores
-# website: https://leonidk.github.io/venue_scores/
+# code: https://github.com/leonidk/pairwise
+# website: https://leonidk.github.io/pairwise
 ---
-<!-- A bibliometric/scientometric project. Our main two results are a method of assigning value to all venues in computer science and a method to organize them into distinct subfields, all without using citation data. The resulting venue scores can be used to rank universities' by scholarly output, and produce a responsive author-level metric. -->
+<!-- We show how to perform efficient black-box optimization of algorithm configuration from user preferences. Results include Intel RealSense stereo cameras and a robot social navigation policy. -->
