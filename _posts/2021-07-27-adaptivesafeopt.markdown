@@ -7,7 +7,7 @@ categories: research
 author: "Durgesh Kalwar"
 authors: "<strong>Durgesh Kalwar</strong>, Vineeth Bala Sukumaran"
 venue: "National Conference on Communications (NCC), 2021"
-arxiv: https://ieeexplore.ieee.org/abstract/document/9530041
+arxiv: https://arxiv.org/abs/2311.02119
 # code: https://github.com/leonidk/pairwise
 # website: https://leonidk.github.io/pairwise
 ---

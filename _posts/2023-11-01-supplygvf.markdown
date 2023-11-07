@@ -8,7 +8,7 @@ categories: research
 author: "Durgesh Kalwar"
 authors: "<strong>Durgesh Kalwar</strong>, Omkar Shelke, Harshad Khadilkar"
 venue: "arxiv, 2023"
-arxiv: /pdfs/supplygvf.pdf
+arxiv: https://arxiv.org/abs/2311.02125
 # code: https://github.com/leonidk/modecfg
 # website: https://leonidk.github.io/modecfg
 # youtube: https://www.youtube.com/watch?v=r2426BR4r8o
