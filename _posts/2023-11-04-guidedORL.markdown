@@ -7,7 +7,7 @@ categories: research
 author: "Richa Verma"
 authors: "Richa Verma <strong>Durgesh Kalwar</strong>, Harshad Khadilkar, Balaraman Ravindran"
 venue: "Accepted in CODS-COMAD conference, 2024"
-# arxiv: https://arxiv.org/abs/2207.10606
+arxiv: https://cods-comad.in/accepted-papers.php
 # code: https://github.com/leonidk/fuzzy-metaballs
 # website: https://leonidk.github.io/fuzzy-metaballs/
 # youtube: https://www.youtube.com/watch?v=Ec7cxEc9eOU
