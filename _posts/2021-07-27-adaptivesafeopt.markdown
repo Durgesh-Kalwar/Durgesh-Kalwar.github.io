@@ -11,4 +11,4 @@ arxiv: https://arxiv.org/abs/2311.02119
 # code: https://github.com/leonidk/pairwise
 # website: https://leonidk.github.io/pairwise
 ---
-<!-- We show how to perform efficient black-box optimization of algorithm configuration from user preferences. Results include Intel RealSense stereo cameras and a robot social navigation policy. -->
+In this paper, we considered the problem of designing a sequential decision-making agent to maximize an unknown time-varying function that switches with time. The agent is also constrained to make safe decisions with a high probability during the exploration phase. For this safe sequential optimization problem, we proposed an algorithm called Adaptive-SafeOpt, which incorporates Bayesian optimization and change point detection.

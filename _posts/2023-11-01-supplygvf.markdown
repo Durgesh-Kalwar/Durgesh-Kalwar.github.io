@@ -13,4 +13,4 @@ arxiv: https://arxiv.org/abs/2311.02125
 # website: https://leonidk.github.io/modecfg
 # youtube: https://www.youtube.com/watch?v=r2426BR4r8o
 ---
-<!-- We show the benefits of discovering an ensemble of configurations for a given algorithm during the course of optimization. Results on stereo, planning and visual odometry.  -->
+In this paper, we utilize GVFs to learn domain-backed inventory management policies. GVFs are trained on domain-critical characteristics such as prediction of stock-out probability and wastage quantity. Using this domain expertise for more effective exploration, we train an RL agent to compute the inventory replenishment quantities for a large range of products (up to 6000), which share aggregate constraints such as the total weight/volume per delivery. Additionally, we showed that the GVF predictions can be used to provide additional domain-backed insights into the decisions proposed by the RL agent.

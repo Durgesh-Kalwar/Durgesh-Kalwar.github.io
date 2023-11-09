@@ -12,4 +12,4 @@ arxiv: https://arxiv.org/abs/2203.00874
 # website: https://leonidk.github.io/fmb-plus
 poster: /pdfs/AAMAS_Poster-2.pdf
 ---
-<!-- We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more.  -->
+In this paper, we proposed a General Value functions (GVFs) based exploration strategy to effectively explore in a directed manner in hard exploration tasks.

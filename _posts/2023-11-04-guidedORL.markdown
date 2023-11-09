@@ -12,4 +12,4 @@ arxiv: https://cods-comad.in/accepted-papers.php
 # website: https://leonidk.github.io/fuzzy-metaballs/
 # youtube: https://www.youtube.com/watch?v=Ec7cxEc9eOU
 ---
-<!-- An approximate differentiable renderer for a compact, interpretable representation, which we call Fuzzy Metaballs. Our approximate renderer focuses on rendering shapes via depth maps and silhouettes. It sacrifices fidelity for utility, producing fast runtimes and high-quality gradient information that can be used to solve vision tasks. -->
+In this paper, we proposed an approach called GORL (Guided Offline-RL) that leverages a safety expert to guide the offline RL agent in choosing safe actions in uncertain states. This approach can be applied to existing offline RL algorithms and has been shown to outperform current methods in terms of safety without sacrificing performance.
